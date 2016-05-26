@@ -1,13 +1,13 @@
 ---
 layout: post
-title: carabitur
+title: UIN SUSKA RIAU
 date: 2015-02-17
 categories: update
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<img src="/images/fulls/03.jpg" class="fit image"> Universitas Islam Negeri (UIN Suska) Riau dalam bahasa Inggris adalah State Islamic University of Sultan Syarif Kasim Riau merupakan hasil pengembangan/ peningkatan status pendidikan dari Institut Agama Islam Negeri (IAIN) Sulthan Syarif Qasim Pekanbaru
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+Institut Agama Islam Negeri Sulthan Syarif Qasim (IAIN Susqa) Pekanbaru sebagai cikal bakal UIN Suska Riau, didirikan pada tanggal 19 September 1970 berdasarkan Surat Keputusan Menteri Agama Republik Indonesia No. 194 Tahun 1970. Institut ini diresmikan berdirinya oleh Menteri Agama Republik Indonesia K.H. Ahmad Dahlan pada tanggal 19 September 1970 berupa penandatanganan piagam dan pelantikan Rektor yang pertama, Prof. H. Ilyas Muhammad Ali.
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+Pengembangan UIN Suska tidak hanya dilakukan pada bidang akademik semata, seperti melalui pembukaan fakultas-fakultas dan program-program studi baru, tapi juga diarahkan pada pengembangan di bidang fisik, sarana, dan prasarana. Dewasa ini UIN Suska telah mempunyai lahan kampus seluas 84,15 Ha yang terdiri atas 3,65 Ha di Jl. K.H. Ahmad Dahlan dan 80,50 Ha di Km. 15 Jl. Soebrantas Simpangbaru Panam Pekanbaru.
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+Sesuai dengan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 UIN Suska memiliki 8 fakultas, yaitu: Fakultas Tarbiyah dan Keguruan, Fakultas Syariah dan Ilmu Hukum, Fakultas Ushuluddin, Fakultas Dakwah dan Ilmu Komunikasi, Fakultas Sains dan Teknologi, Fakultas Psikologi, Fakultas Ekonomi dan Ilmu Sosial, dan fakultas Pertanian dan Peternakan.
