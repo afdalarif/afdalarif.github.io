@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Suspendisse pellentesque
-date: 2015-02-06T14:37:44.000Z
+title: Sistem Informasi
+date: 2016-05-26
 categories: update
 ---
 
