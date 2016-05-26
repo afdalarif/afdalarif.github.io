@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sistem Informasi
-date: 2016-05-22
+date: 2016-05-02
 categories: update
 ---
 
