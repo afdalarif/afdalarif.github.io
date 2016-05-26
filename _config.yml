@@ -14,12 +14,12 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     example  # Replace this with your Twitter username
-github_username:      example  # Replace this with your GitHub username
-linkedin_username:    example  # Replace this with your LinkedIn username
-google_plus_username: example  # Replace this with your Google+ username
-facebook_username:    example  # Replace this with your Facebook username
-dribbble_username:    example  # Replace this with your Dribbble username
+twitter_username:     https://twitter.com/amandaputra
+github_username:      https://github.com/afdalarif  
+linkedin_username:    # Replace this with your LinkedIn username
+google_plus_username: https://plus.google.com/u/0/106479458672671828716/about
+facebook_username:    https://www.facebook.com/profile.php?id=100000662149017
+dribbble_username:      # Replace this with your Dribbble username
 
 # Build settings
 markdown: kramdown
